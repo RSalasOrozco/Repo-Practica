@@ -1,0 +1,45 @@
+# Archivos y directorios ignorados por Git
+
+# Archivos de configuración
+*.config
+*.settings
+
+# Archivos de compilación y ejecución
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+
+# Archivos de depuración
+*.pdb
+*.dbg
+
+# Archivos de logs
+*.log
+*.tmp
+
+# Archivos de cache
+*.cache
+*.tmp
+
+# Directorios de node_modules
+node_modules/
+
+# Directorios de build
+build/
+dist/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de versiones antiguas
+*.bak
+*.old
+*.orig

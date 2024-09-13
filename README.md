@@ -1,6 +1,3 @@
-Aquí tienes una versión más interactiva y orientada al estudio del README, con ejemplos claros de los comandos, pasos a seguir, y algunas secciones donde los estudiantes pueden poner a prueba sus conocimientos:
-
----
 
 # Repo Prueba Comandos de Git 🎓
 
@@ -176,12 +173,6 @@ Si estás trabajando en GitHub:
 
 ---
 
-## 📜 Requisitos
-
-- Tener [Git](https://git-scm.com/) instalado.
-- Cuenta en [GitHub](https://github.com/).
-
----
 
 ¡A practicar! Git es una herramienta muy poderosa, y este repositorio es el lugar perfecto para ensuciarte las manos y dominarla. Si tienes dudas, ¡no dudes en preguntar a tus compañeros o buscar en la documentación oficial!
 
